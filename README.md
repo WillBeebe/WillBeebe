@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willbeebe)](https://github.com/anuraghazra/github-readme-stats)
+![Wills's GitHub stats](https://github-readme-stats.vercel.app/api?username=willbeebe&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WillBeebe.WillBeebe)
 
