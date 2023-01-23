@@ -1,20 +1,17 @@
 ### Hi there 👋
 
+Follow me on <a href="https://twitter.com/intent/follow?screen_name=willbaebae" target="blank">Twitter</a>
+
+- 🏭 [Massdriver](https://www.massdriver.cloud) 
+- 🐦 <a href="https://twitter.com/intent/follow?screen_name=willbaebae" target="blank">Follow Me</a>
+- 👯 Pronouns: he/him
+- ⚡ Fun fact: 
+  - Used to race motorcycles (Yamaha R1M, SV 650)
+  - Lived on a sailboat in Seattle for a year. 
+  - Raced sailbotas for 5 years in Seattle.
+
+
 ![Wills's GitHub stats](https://github-readme-stats.vercel.app/api?username=willbeebe&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=WillBeebe.WillBeebe)
 
-<!--
-**WillBeebe/WillBeebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
