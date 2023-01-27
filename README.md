@@ -1,10 +1,9 @@
+![IMG_0613-transformed copy](https://user-images.githubusercontent.com/651833/215151859-dce40a6c-21e7-4a18-8080-77765636282b.jpeg)
+
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+  <h1>Hi 👋, I'm Will</h1>
+  <h3>Bio placeholder</h3>
 </div>
-
-
-<h1 align="center">Hi 👋, I'm Will</h1>
-<h3 align="center">Bio placeholder</h3>
 
 <hr>
 
