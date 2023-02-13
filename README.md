@@ -1,4 +1,5 @@
-![IMG_0613-transformed copy](https://user-images.githubusercontent.com/651833/215151859-dce40a6c-21e7-4a18-8080-77765636282b.jpeg)
+![banner-3-centered](https://user-images.githubusercontent.com/651833/218585896-47558fbd-cb09-49d6-96d2-cb111ca3eeb8.png)
+
 
 <div align="center">
   <h1>Hi 👋, I'm Will</h1>
