@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Will</h1>
-  <h3>Bio placeholder</h3>
+  <h3>I'm still learning how to speak computer.</h3>
 </div>
 
 <hr>
