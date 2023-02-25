@@ -1,5 +1,4 @@
-![banner-3-centered](https://user-images.githubusercontent.com/651833/218585896-47558fbd-cb09-49d6-96d2-cb111ca3eeb8.png)
-
+![banner-4](https://user-images.githubusercontent.com/651833/221377729-a058923e-5b1d-48bb-b602-c6b07a02b655.png)
 
 <div align="center">
   <h1>Hi 👋, I'm Will</h1>
