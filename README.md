@@ -1,4 +1,4 @@
-![banner-4](https://user-images.githubusercontent.com/651833/221377729-a058923e-5b1d-48bb-b602-c6b07a02b655.png)
+![banner-7-twitter](https://user-images.githubusercontent.com/651833/221762020-16b76bd3-a2b0-41f8-8ca6-89580d031ddf.png)
 
 <div align="center">
   <h1>Hi 👋, I'm Sydney</h1>
