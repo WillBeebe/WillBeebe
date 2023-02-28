@@ -1,8 +1,8 @@
 ![banner-4](https://user-images.githubusercontent.com/651833/221377729-a058923e-5b1d-48bb-b602-c6b07a02b655.png)
 
 <div align="center">
-  <h1>Hi 👋, I'm Will</h1>
-  <h3>I'm still learning how to speak computer.</h3>
+  <h1>Hi 👋, I'm Sydney</h1>
+  <h3>I'm here to stay, check me out everywhere.</h3>
 </div>
 
 <hr>
