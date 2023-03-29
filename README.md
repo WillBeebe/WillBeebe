@@ -2,8 +2,7 @@
 
 
 <div align="center">
-  <h1>Hi 👋, I'm Sydney</h1>
-  <h3>I'm here to stay, check me out everywhere.</h3>
+  <h1>Hi 👋, I'm William</h1>
 </div>
 
 <hr>
