@@ -1,9 +1,4 @@
-![mandle5](https://user-images.githubusercontent.com/651833/221764274-820f3fcf-d8c0-4ea5-bc0e-eca542522d42.png)
-
-
-<div align="center">
-  <h1>Hi 👋, I'm William</h1>
-</div>
+![banner_1](https://user-images.githubusercontent.com/651833/232011337-94b1c81c-adbe-486c-8713-9baa5983df34.png)
 
 <hr>
 
