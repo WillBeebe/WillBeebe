@@ -7,6 +7,7 @@
 + Photo App - 2023 
   + FlutterFlow app + JavaScript Cloud Function + Terraform 
   + Built so I have control over the ingestion pipeline. I add labels in Lightroom and those plus image metadata are stored in Firestore, available for queries from the frontend.
+  + The FlutterFlow app is private because they store static credentials in the repo 🤯
   + [live app](https://ldphoto.co/) - [repo](https://github.com/container-labs/photo_app) 
 + ShipShape - 2020
   + Get alerts for packages being delivered, from multiple providers.
