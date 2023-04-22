@@ -2,6 +2,27 @@
 
 <hr>
 
+<h3 align="left">Noteable work:</h3>
+
++ Photo App - 2023 
+  + FlutterFlow app + JavaScript Cloud Function + Terraform 
+  + Built so I have control over the ingestion pipeline. I add labels in Lightroom and those plus image metadata are stored in Firestore, available for queries from the frontend.
+  + [live app](https://ldphoto.co/) - [repo](https://github.com/container-labs/photo_app) 
++ ShipShape - 2020
+  + Get alerts for packages being delivered, from multiple providers.
+  + React + Firebase
+  + [repo](https://github.com/container-labs-archive/ship-shape)  
++ LoveBlocks - 2017
+  + Love notes stored on the blockchain, displayed in augmented reality 
+
+<h3 align="left">Projects in the oven:</h3>
+
++ Text to American Sign Language - [link](https://github.com/container-labs/text-to-asl) Training a text to image model with the Transformer aritecture.
+
+<h3 align="left">Free Code:</h3>
+
++ Stable Diffusion scripts, Docker containers, k8s yaml for GCP GKE - [link](https://github.com/container-labs/stable-diffusion)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willbeebe&theme=dracula&column=-1" alt="willbeebe" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
