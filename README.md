@@ -7,8 +7,10 @@
 + Photo App - 2023 
   + FlutterFlow app + JavaScript Cloud Function + Terraform 
   + Built so I have control over the ingestion pipeline. I add labels in Lightroom and those plus image metadata are stored in Firestore, available for queries from the frontend.
-  + The FlutterFlow app is private because they store static credentials in the repo 🤯
   + [live app](https://ldphoto.co/) - [repo](https://github.com/container-labs/photo_app) 
++ Massdriver Application Examples
+  + All of the GCP examples [here](https://github.com/massdriver-cloud/application-examples/tree/main/gcp)
+  + k8s examples in Rust and NodeJS, examples of Azure blob storage, GPU-enabled k8s deployment, etc. [link](https://github.com/massdriver-cloud/application-examples/tree/main/k8s)
 + ShipShape - 2020
   + Get alerts for packages being delivered, from multiple providers.
   + React + Firebase
@@ -23,6 +25,22 @@
 <h3 align="left">Free Code:</h3>
 
 + Stable Diffusion scripts, Docker containers, k8s yaml for GCP GKE - [link](https://github.com/container-labs/stable-diffusion)
+
+Terraform
+
++ Azure
+  + [Subnetwork](https://github.com/container-labs/terraform-azurerm-subnetwork)
++ Scaleway
+  + [VPC](https://github.com/container-labs/terraform-scaleway-vpc)
+  + [Redis](https://github.com/container-labs/terraform-scaleway-redis)
+  + [MySQL](https://github.com/container-labs/terraform-scaleway-rdb-mysql)
+  + [PostgreSQL](https://github.com/container-labs/terraform-scaleway-rdb-postgresql)
+  + [k8s](https://github.com/container-labs/terraform-scaleway-k8s-cluster)
++ GitHub
+  + [Terraform Repo](https://github.com/container-labs/terraform-github-terraform-repo)
+  + [Dart Repo](https://github.com/container-labs/terraform-github-dart-repo)
+  + [NodeJS Repo](https://github.com/container-labs/terraform-github-nodejs-repo)
+  + [Dev Env Repo](https://github.com/container-labs/terraform-github-devenv-repo)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willbeebe&theme=dracula&column=-1" alt="willbeebe" /></a> </p>
 
