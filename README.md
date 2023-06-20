@@ -40,7 +40,20 @@ Terraform
   + [Terraform Repo](https://github.com/container-labs/terraform-github-terraform-repo)
   + [Dart Repo](https://github.com/container-labs/terraform-github-dart-repo)
   + [NodeJS Repo](https://github.com/container-labs/terraform-github-nodejs-repo)
-  + [Dev Env Repo](https://github.com/container-labs/terraform-github-devenv-repo)  
+  + [Dev Env Repo](https://github.com/container-labs/terraform-github-devenv-repo)
+ 
+JavaScript
+
++ Funpack - like webpack but for "Serverless" JS functions - [repo](https://github.com/container-labs/funpack)
+
+Erlang
+
++ Goth - Google Oauth in Erlang - [repo](https://github.com/container-labs/erlang-goth)
+
+Guides 
+
++ Learning Frontend (WIP) - [repo](https://github.com/container-labs/learning-frontend-draft)
++ Learning Backend (WIP) - [repo](https://github.com/container-labs/learning-backend-draft)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willbeebe&theme=dracula&column=-1" alt="willbeebe" /></a> </p>
 
