@@ -1,6 +1,4 @@
-![banner_1](https://user-images.githubusercontent.com/651833/232011337-94b1c81c-adbe-486c-8713-9baa5983df34.png)
 
-<hr>
 
 <h3 align="left">Noteable work:</h3>
 
