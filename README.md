@@ -1,7 +1,9 @@
 
 
-<h3 align="left">Noteable work:</h3>
+<h3 align="left">Past Projects:</h3>
 
++ Ada - 2024
+  + python package to make interacting with several llm providers much easier - [link](https://github.com/WillBeebe/ada-python)
 + Photo App - 2023 
   + FlutterFlow app + JavaScript Cloud Function + Terraform 
   + Built so I have control over the ingestion pipeline. I add labels in Lightroom and those plus image metadata are stored in Firestore, available for queries from the frontend.
@@ -16,11 +18,11 @@
 + LoveBlocks - 2017
   + Love notes stored on the blockchain, displayed in augmented reality 
 
-<h3 align="left">Projects in the oven:</h3>
-
-+ Text to American Sign Language - [link](https://github.com/container-labs/text-to-asl) Training a text to image model with the Transformer aritecture.
 
 <h3 align="left">Free Code:</h3>
+
++ Ada
+  + python [package](https://github.com/WillBeebe/ada-python) 
 
 + Stable Diffusion scripts, Docker containers, k8s yaml for GCP GKE - [link](https://github.com/container-labs/stable-diffusion)
 
