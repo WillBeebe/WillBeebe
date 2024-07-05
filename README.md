@@ -4,6 +4,8 @@
 
 + Ada - 2024
   + python package to make interacting with several llm providers much easier - [link](https://github.com/WillBeebe/ada-python)
+  + golang cli to make, most things easier - [link](https://github.com/WillBeebe/ada-cli)
+    + helps with apps, infrastructure, and agents. works well with `ada-python`
 + Photo App - 2023 
   + FlutterFlow app + JavaScript Cloud Function + Terraform 
   + Built so I have control over the ingestion pipeline. I add labels in Lightroom and those plus image metadata are stored in Firestore, available for queries from the frontend.
