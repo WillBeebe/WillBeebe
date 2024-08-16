@@ -8,6 +8,8 @@
     + helps with apps, infrastructure, and agents. works well with `ada-python`
   + [ada-gh-bot](https://github.com/WillBeebe/ada-gh-bot) - github bot that makes issues and pull requests better by making them ai-enabled.
     + works well with Ada... among other providers
++ Other 2024 Code
+  + [terraform-provider-lambdalabs](https://github.com/WillBeebe/terraform-provider-lambdalabs) A Terraform provider for The AI Developer Cloud [Lambda Labs](https://lambdalabs.com/)
 + Photo App - 2023 
   + FlutterFlow app + JavaScript Cloud Function + Terraform 
   + Built so I have control over the ingestion pipeline. I add labels in Lightroom and those plus image metadata are stored in Firestore, available for queries from the frontend.
