@@ -8,6 +8,7 @@
   + [cloud-canvas](https://github.com/WillBeebe/cloud-canvas) - React Frontend, Python API, and k8s manifests for running the UI and state storage layer.
   + [package-provisioner](https://github.com/WillBeebe/package-provisioner) - Event-based Go service that uses Terraform, Helm, bash, etc to provision the cloud resources.
   + [auth-service](https://github.com/WillBeebe/auth-service) - Go service to handle auth for all Rad Ai products.
+  + [canvas-packages](https://github.com/WillBeebe/canvas-packages) - Collection of infrastructure packages, each its own distinct module for provision infrastructure in the cloud via Cloud Canvas.
 + Ada - 2024
   + [ada-python](https://github.com/WillBeebe/ada-python) - python package to make interacting with several llm providers much easier
   + [ada-cli](https://github.com/WillBeebe/ada-cli) - golang cli to make, most things easier
