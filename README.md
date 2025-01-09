@@ -2,6 +2,8 @@
 
 <h3 align="left">Past Projects:</h3>
 
++ Cloud Canvas - 2024
+  + [Frontend, API, and k8s manifests](https://github.com/WillBeebe/cloud-canvas)
 + Ada - 2024
   + [ada-python](https://github.com/WillBeebe/ada-python) - python package to make interacting with several llm providers much easier
   + [ada-cli](https://github.com/WillBeebe/ada-cli) - golang cli to make, most things easier
