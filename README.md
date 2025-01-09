@@ -16,6 +16,8 @@
   + [ada-gh-bot](https://github.com/WillBeebe/ada-gh-bot) - github bot that makes issues and pull requests better by making them ai-enabled.
     + works well with Ada... among other providers
 
+<h3 align="left">Miscellaneous</h3>
+
 + Other 2024 Code
   + [terraform-provider-lambdalabs](https://github.com/WillBeebe/terraform-provider-lambdalabs) A Terraform provider for The AI Developer Cloud [Lambda Labs](https://lambdalabs.com/)
 + Photo App - 2023 
