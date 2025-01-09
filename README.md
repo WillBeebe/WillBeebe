@@ -5,11 +5,14 @@
 <h3 align="left">Rad Ai</h3>
 
 + Cloud Canvas - 2024
+  + A visual tool to manage your cloud infrastructure. By connecting `canvas-packes` together, Cloud Canvas manages the provisioning, monitoring, and deprovisioning lifecycle for you. Terraform, Ansible, Chef, Helm, bash, it doesn't matter, it handles it all for you behind the scenes. The _agentic_ layer on top of this product is natural-language driven and can provision one to many pieces of infrastructure for you, powered by the core technology of Cloud Canvas itself.  
   + [cloud-canvas](https://github.com/WillBeebe/cloud-canvas) - React Frontend, Python API, and k8s manifests for running the UI and state storage layer.
   + [package-provisioner](https://github.com/WillBeebe/package-provisioner) - Event-based Go service that uses Terraform, Helm, bash, etc to provision the cloud resources.
   + [auth-service](https://github.com/WillBeebe/auth-service) - Go service to handle auth for all Rad Ai products.
   + [canvas-packages](https://github.com/WillBeebe/canvas-packages) - Collection of infrastructure packages, each its own distinct module for provision infrastructure in the cloud via Cloud Canvas.
 + Ada - 2024
+  + A Claude-like coding web app. You choose the provider, whether it be Anthropic, OpenAI, Google, Cohere, or any others supported by `ada-python`. Code samples are displayed alongside your prompt in a friendly user interface. The _agentic_ layer on top is meant to automate common tasks like code changes, completing issues, opening pull requests, etc... all on your behalf. A 10x engineer at your fingertips.
+  + [ada](https://github.com/WillBeebe/ada) - React Frontend, Python API, and k8s manifests for running the UI and state storage layer.
   + [ada-python](https://github.com/WillBeebe/ada-python) - python package to make interacting with several llm providers much easier
   + [ada-cli](https://github.com/WillBeebe/ada-cli) - golang cli to make, most things easier
     + helps with apps, infrastructure, and agents. works well with `ada-python`
