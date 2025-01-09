@@ -2,15 +2,18 @@
 
 <h3 align="left">Past Projects:</h3>
 
+<h3 align="left">Rad Ai</h3>
 + Cloud Canvas - 2024
   + [cloud-canvas](https://github.com/WillBeebe/cloud-canvas) - React Frontend, Python API, and k8s manifests for running the UI and state storage layer.
   + [package-provisioner](https://github.com/WillBeebe/package-provisioner) - Event-based Go service that uses Terraform, Helm, bash, etc to provision the cloud resources.
+  + [auth-service](https://github.com/WillBeebe/auth-service) - Go service to handle auth for all Rad Ai products.
 + Ada - 2024
   + [ada-python](https://github.com/WillBeebe/ada-python) - python package to make interacting with several llm providers much easier
   + [ada-cli](https://github.com/WillBeebe/ada-cli) - golang cli to make, most things easier
     + helps with apps, infrastructure, and agents. works well with `ada-python`
   + [ada-gh-bot](https://github.com/WillBeebe/ada-gh-bot) - github bot that makes issues and pull requests better by making them ai-enabled.
     + works well with Ada... among other providers
+
 + Other 2024 Code
   + [terraform-provider-lambdalabs](https://github.com/WillBeebe/terraform-provider-lambdalabs) A Terraform provider for The AI Developer Cloud [Lambda Labs](https://lambdalabs.com/)
 + Photo App - 2023 
